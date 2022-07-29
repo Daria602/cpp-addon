@@ -68,5 +68,5 @@ npm run build
 
 ## Remarks
 * Run *npm run build* every time you modify the contents of C++ files, which require recompiling.
-* Amazing tutorial on how to make C++ project from scratch can be found [here](https://morioh.com/p/e1a6f79af449)
+* Amazing tutorial on how to make C++ addon project from scratch can be found [here](https://morioh.com/p/e1a6f79af449)
 
