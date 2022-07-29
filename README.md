@@ -1,10 +1,5 @@
 # C++ addon for Node.Js using N-API
 
-## Dependencies
-```bash
-npm install node-gyp --save-dev
-npm install node-addon-api
-```
 
 ## Steps to make another C++ function (with examples from code)
 
